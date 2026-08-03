@@ -46,8 +46,9 @@ body {
 
 .greeting {
   font-weight: 700;
-  font-size: 22px;
+  font-size: 28px;
   line-height: 1.4;
+  text-align: center;
   margin: 0 0 4px;
 }
 
