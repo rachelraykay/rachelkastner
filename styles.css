@@ -185,14 +185,6 @@ a:hover {
   opacity: 0.85;
 }
 
-.logo {
-  color: var(--muted);
-  font-weight: 600;
-  font-size: 15px;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
 .email {
   text-align: center;
   margin: 0 0 12px;
