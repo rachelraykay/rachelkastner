@@ -44,6 +44,13 @@ body {
   margin: 0 0 48px;
 }
 
+.greeting {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.4;
+  margin: 0 0 4px;
+}
+
 .headline {
   font-weight: 700;
   font-size: 22px;
