@@ -173,10 +173,16 @@ a:hover {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 24px 40px;
+  gap: 20px 32px;
   padding: 24px 0;
   border-top: 1px solid var(--divider);
   border-bottom: 1px solid var(--divider);
+}
+
+.logo-img {
+  height: 28px;
+  width: auto;
+  opacity: 0.85;
 }
 
 .logo {
