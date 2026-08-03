@@ -159,15 +159,6 @@ a:hover {
   background: var(--muted);
 }
 
-.featured-label {
-  color: var(--muted);
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  text-align: center;
-  margin: 0 0 24px;
-}
-
 .logo-row {
   display: flex;
   flex-wrap: wrap;
